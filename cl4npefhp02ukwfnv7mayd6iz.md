@@ -2,7 +2,7 @@
 
 Hello everyone👋.
 
-Today i am exciting to announce that we have done a lot of changes to [cs-tracker](https://cs-tracker.vercel.app/) website. You can see the changes made [in this blog](Link). So in today's blog we are going to discuss the list of packages used to make the cs-tracker website we are going to discuss frontend as well as backend packages used and their usage in the app so let's get started.
+Today i am exciting to announce that we have done a lot of changes to [cs-tracker](https://cs-tracker.vercel.app/) website. You can see the changes made [in this blog](https://theuniquecoder.hashnode.dev/changes-made-in-cs-tracker-and-upgrade-in-tech-stack). So in today's blog we are going to discuss the list of packages used to make the cs-tracker website we are going to discuss frontend as well as backend packages used and their usage in the app so let's get started.
 
 All the packages are available on npmjs website as well
 
