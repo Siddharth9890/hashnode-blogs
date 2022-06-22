@@ -51,3 +51,7 @@ Changes regarding Authentication Service:-**
 1. Improved profile page readability.
 
 2. Minor layout changes in home,topics,questions pages.
+
+Thanks for reading 😊😊😊.
+
+Follow for more such content [@Siddharth9890](https://www.linkedin.com/in/siddharth-singh-563824202/).
