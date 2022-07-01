@@ -25,4 +25,7 @@ Aside from redis we have alternatives to redis that implement pub/sub pattern th
 
 3. [Google PubSub](https://cloud.google.com/pubsub/)
 
+Thanks for reading 😊😊😊.
+
+Follow for more such content [@Siddharth9890](https://www.linkedin.com/in/siddharth-singh-563824202/).
 
