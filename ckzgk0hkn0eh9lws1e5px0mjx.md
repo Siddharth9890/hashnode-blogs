@@ -18,3 +18,7 @@ After everything is done then you can run the project easily without any issues.
 So How did you like the package if you love it share it with friends and dev teams. 
 
 Also there are many future update going to happen to add more options to the package so stay tune for that 
+
+Thanks for reading 😊😊😊.
+
+Follow for more such content [@Siddharth9890](https://www.linkedin.com/in/siddharth-singh-563824202/).
