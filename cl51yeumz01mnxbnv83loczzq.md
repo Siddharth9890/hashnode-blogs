@@ -2,7 +2,7 @@
 
 Hello everyone👋.
 
-Today i am excited to share with you that we have updated our [npm package](https://www.npmjs.com/package/start-web-app) to major one i.e major release and added features plus typescript support as well so in this blog we are going to share all the information about this latest update so let's get started.
+Today i am excited to share with you that we have updated our [npm package](https://www.npmjs.com/package/start-web-app) to major one i.e major release and added features plus typescript support as well so in this blog we are going to share all the information about this latest update so let's get started. In previous blog i have  [discussed the list of packages and why we have use cross-spawn](https://theuniquecoder.hashnode.dev/introducing-start-web-app-a-simpler-way-to-create-all-your-apps-using-react-and-node)
 
 **Upgraded to typescript**
 
