@@ -1,4 +1,15 @@
-## Introducing start-web-app a simpler way to create all your apps using react and node
+---
+title: "Introducing start-web-app a simpler way to create all your apps using react and node"
+seoTitle: "package,web-development,react,node,javascript,npm,npx"
+seoDescription: "Introducing start-web-app a simpler way to create all your apps using react and node"
+datePublished: Thu Feb 10 2022 05:42:17 GMT+0000 (Coordinated Universal Time)
+cuid: ckzgk0hkn0eh9lws1e5px0mjx
+slug: introducing-start-web-app-a-simpler-way-to-create-all-your-apps-using-react-and-node
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1647925627275/J74l3qU--.png
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1644471654198/YUnYOw9SB.png
+tags: javascript, nodejs, npm, package, reactjs
+
+---
 
 Hello everyone👋.
  
