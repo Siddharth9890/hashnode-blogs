@@ -1,4 +1,12 @@
-## Architecture of our web app CS-TRACKER
+---
+title: "Architecture of our web app CS-TRACKER"
+seoTitle: "cs-tracker node react data-structures algorithms leetcode"
+datePublished: Mon Jan 03 2022 11:53:07 GMT+0000 (Coordinated Universal Time)
+cuid: ckxymj0qr00t17cs1eq26bh60
+slug: architecture-of-our-web-app-cs-tracker
+tags: express, algorithms, nodejs, data-structures, reactjs
+
+---
 
 So recently we launched a group project which tracks your data structures and algorithms problems i.e you solve data structures and algorithms problems on leetcode along with videos for your help if you could not solve it + revision on questions using dates  [link of the website ](https://cs-tracker.pages.dev/) . We made this project using react ,tailwind css on frontend and nodejs for backend and mongodb for storing the data.If you want to look at the source code  [click here](https://github.com/Siddharth9890/cs-tracker-fontend) and for backend  [click here](https://github.com/Siddharth9890/cs-tracker-backend).
 
