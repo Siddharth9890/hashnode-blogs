@@ -1,4 +1,12 @@
-## Coding Machine a online editor to write programs and to run it part 3.Let's discuss about simple rest api and worker code
+---
+title: "Coding Machine a online editor to write programs and to run it part 3.Let's discuss about simple rest api and worker code"
+seoTitle: "code engine, remote-code-execution, mern, coding-machine,ide"
+datePublished: Tue Apr 12 2022 02:23:48 GMT+0000 (Coordinated Universal Time)
+cuid: cl1vis73703dfkmnvb0utbonk
+slug: coding-machine-a-online-editor-to-write-programs-and-to-run-it-part-3lets-discuss-about-simple-rest-api-and-worker-code
+tags: ides, nodejs, backend, reactjs, mern
+
+---
 
 So hello everyone 👋👋. Lets discuss about my project [coding-machine](https://coding-machine.pages.dev/) we have discussed about the [problems and architecture](https://theuniquecoder.hashnode.dev/coding-machine-a-online-editor-to-write-programs-and-to-run-it-part-2lets-discuss-about-problems-and-architecture-of-the-app) in part 2 if you have missed it i would highly prefer you to read it first before starting this one. So let's start with the simple rest api and worker code.
 
