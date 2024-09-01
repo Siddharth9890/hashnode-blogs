@@ -1,4 +1,13 @@
-## Introduction to MongoDb aggregations and Eazy develop challenge 2
+---
+title: "Introduction to MongoDb aggregations and Eazy develop challenge 2"
+seoTitle: "Introduction to MongoDb aggregation"
+datePublished: Mon Jul 04 2022 09:25:26 GMT+0000 (Coordinated Universal Time)
+cuid: cl56je4g604tyg0nvfxdkhm4j
+slug: introduction-to-mongodb-aggregations-and-eazy-develop-challenge-2
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1656909323748/-xykRJ7_d.png
+tags: charts, javascript, mongodb, aggregation, pipeline
+
+---
 
 Hello All
 
