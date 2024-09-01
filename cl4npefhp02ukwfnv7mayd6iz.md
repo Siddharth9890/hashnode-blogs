@@ -1,4 +1,14 @@
-## A Complete List of Packages Used in CS Tracker App
+---
+title: "A Complete List of Packages Used in CS Tracker App"
+seoTitle: "A Complete List of Packages Used in CS Tracker App"
+seoDescription: "A Complete List of Packages Used in CS Tracker App"
+datePublished: Tue Jun 21 2022 05:06:01 GMT+0000 (Coordinated Universal Time)
+cuid: cl4npefhp02ukwfnv7mayd6iz
+slug: a-complete-list-of-packages-used-in-cs-tracker-app
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1655787173050/aZ8Q9KOzZ.png
+tags: reactjs, typescript, node, vercel, tailwind-css
+
+---
 
 Hello everyone👋.
 
