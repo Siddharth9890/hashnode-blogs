@@ -1,4 +1,13 @@
-## Coding Machine a online editor to write programs and to run it part 2.Let's discuss about problems and architecture of the app
+---
+title: "Coding Machine a online editor to write programs and to run it part 2.Let's discuss about problems and architecture of the app"
+seoTitle: "code engine, remote-code-execution, mern, coding-machine, ide"
+datePublished: Mon Apr 11 2022 12:20:27 GMT+0000 (Coordinated Universal Time)
+cuid: cl1uonngc00x3lnnv0llh9tyo
+slug: coding-machine-a-online-editor-to-write-programs-and-to-run-it-part-2lets-discuss-about-problems-and-architecture-of-the-app
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1649678935616/2T7Pm3AKw.png
+tags: nodejs, software-architecture, reactjs, software-engineering, mern
+
+---
 
 So hello everyone 👋👋. Lets discuss about my project [coding-machine](https://coding-machine.pages.dev/) we have discussed about the [frontend](https://theuniquecoder.hashnode.dev/coding-machine-a-online-editor-to-write-programs-and-to-run-it-part-1) in part 1 if you have missed it i would highly prefer you to read it first before starting this one. So let's start with the backend and the problems now.
 
