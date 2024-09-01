@@ -1,4 +1,13 @@
-# MongoDB _id The most important thing that you should know
+---
+title: "MongoDB _id The most important thing that you should know"
+seoTitle: "MongoDB _id and its hidden features"
+datePublished: Mon Feb 27 2023 11:38:01 GMT+0000 (Coordinated Universal Time)
+cuid: clemqxd7h000m09lbhs2fgncg
+slug: mongodb-id-the-most-important-thing-that-you-should-know
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1677496856831/9dfbac64-1ec1-4153-866c-a895eb3f4396.webp
+tags: nosql, mongodb, mongoose, indexing, timestamp
+
+---
 
 Hello everyone.
 
