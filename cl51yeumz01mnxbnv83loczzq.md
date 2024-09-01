@@ -1,4 +1,13 @@
-## Start-web-app v2.0 You want tailwind support let's get it
+---
+title: "Start-web-app v2.0 You want tailwind support let's get it"
+seoTitle: "Start-web-app v2.0 Added tailwind support,typescript support"
+datePublished: Fri Jul 01 2022 04:27:03 GMT+0000 (Coordinated Universal Time)
+cuid: cl51yeumz01mnxbnv83loczzq
+slug: start-web-app-v20-you-want-tailwind-support-lets-get-it
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1656647960580/_iUyzeLkY.png
+tags: react, npm, typescript, node, start-web-app
+
+---
 
 Hello everyone👋.
 
