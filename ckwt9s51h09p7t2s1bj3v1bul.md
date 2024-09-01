@@ -1,4 +1,12 @@
-## Quick Revision of Javascript concepts with codedamn
+---
+title: "Quick Revision of Javascript concepts with codedamn"
+seoTitle: "javascript web-development challenge newbie"
+datePublished: Sun Dec 05 2021 13:17:45 GMT+0000 (Coordinated Universal Time)
+cuid: ckwt9s51h09p7t2s1bj3v1bul
+slug: quick-revision-of-javascript-concepts-with-codedamn
+tags: newbie, challenge, javascript, web-development, codenewbies
+
+---
 
 # So i heard about this 50 day challenge of javascript on codedamn website (not      sponsored by any way 😁). 
 
