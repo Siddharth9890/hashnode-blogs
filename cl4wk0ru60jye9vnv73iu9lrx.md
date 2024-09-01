@@ -1,4 +1,12 @@
-## What i learned from 1st Eazy Hack challenge
+---
+title: "What i learned from 1st Eazy Hack challenge"
+seoTitle: "code engine using redis pubSub and node.js"
+datePublished: Mon Jun 27 2022 09:45:21 GMT+0000 (Coordinated Universal Time)
+cuid: cl4wk0ru60jye9vnv73iu9lrx
+slug: what-i-learned-from-1st-eazy-hack-challenge
+tags: redis, nodejs, pubsub
+
+---
 
 Hello All
 
