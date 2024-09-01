@@ -1,4 +1,14 @@
-## Changes made in CS-Tracker and upgrade in tech-stack.
+---
+title: "Changes made in CS-Tracker and upgrade in tech-stack."
+seoTitle: "Changes made in CS-Tracker and upgrade in tech-stack"
+seoDescription: "Changes made in CS-Tracker and upgrade in tech-sta"
+datePublished: Wed Jun 22 2022 05:11:27 GMT+0000 (Coordinated Universal Time)
+cuid: cl4p519rz03n0icnv7o5n83ss
+slug: changes-made-in-cs-tracker-and-upgrade-in-tech-stack
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1655870240184/zvWqi2vrB.png
+tags: nodejs, sql, reactjs, typescript, nextjs
+
+---
 
 Hello everyone👋.
 
