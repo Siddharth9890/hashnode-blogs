@@ -1,4 +1,13 @@
-# A Tale of Debugging: Debugging Chrome extension.
+---
+title: "A Tale of Debugging: Debugging Chrome extension."
+seoTitle: "Debugging a chrome extension."
+datePublished: Sat Feb 25 2023 11:33:16 GMT+0000 (Coordinated Universal Time)
+cuid: clejvvjpp000409l23oil8b57
+slug: a-tale-of-debugging-debugging-chrome-extension
+cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/zhZydTyNMPg/upload/da979b93a46f9b24b65b39dd617672fd.jpeg
+tags: nodejs, databases, debugging, chrome-extension, debuggingfeb
+
+---
 
 Hello everyone.
 
