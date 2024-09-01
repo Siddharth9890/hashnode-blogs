@@ -1,4 +1,13 @@
-## Coding Machine a online editor to write programs and to run it part 1
+---
+title: "Coding Machine a online editor to write programs and to run it part 1"
+seoTitle: "react,mern,ide,ides,node"
+datePublished: Mon Apr 04 2022 13:20:42 GMT+0000 (Coordinated Universal Time)
+cuid: cl1kqq5ze0dtxkbnv3uqc7znl
+slug: coding-machine-a-online-editor-to-write-programs-and-to-run-it-part-1
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1649077347009/6BS4uSYul.png
+tags: ide, ides, nodejs, reactjs, mern
+
+---
 
 So hello everyone 👋👋.
 Today i present to you coding machine  a online editor to run programs. This is my personal project made using mern stack. So in this blog i will discuss general idea about this project some points which are important when you make such types of editors. So let's get started 🤩🤩.
