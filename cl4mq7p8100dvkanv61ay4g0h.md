@@ -1,4 +1,14 @@
-## Why we shifted from cloudflare pages to vercel for our website cs-tracker
+---
+title: "Why we shifted from cloudflare pages to vercel for our website cs-tracker"
+seoTitle: "The Sad Truth About Why We Shifted From Cloudflare Pages To Vercel"
+seoDescription: "The Ugly Truth About Why We Shifted From Cloudflare Pages To Vercel For Our Website Cs-tracker"
+datePublished: Mon Jun 20 2022 12:41:00 GMT+0000 (Coordinated Universal Time)
+cuid: cl4mq7p8100dvkanv61ay4g0h
+slug: why-we-shifted-from-cloudflare-pages-to-vercel-for-our-website-cs-tracker
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1655727820665/iia8lAmo4.png
+tags: cloudflare, reactjs, node, nextjs, vercel
+
+---
 
 So our website [cs-tracker](https://cs-tracker.vercel.app/) which was initially made using react was hosted on cloudflare pages. It was working perfectly fine. But from last month we started to restructure the whole codebase and rebuild the website using typescript,redux and Next.js as frontend tech stack(I write a seperate blog regarding why we choose the tech stack and working in detail). We did build the website but the problem was in hosting part. 
 
